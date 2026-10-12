@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://su-gyung-massage.netlify.app/sitemap.xml
